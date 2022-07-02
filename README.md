@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-[/github/followers/:user?label=Follow](https://img.shields.io/github/followers/2)
-
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=BenyaminMoadab)
+[![Github](https://img.shields.io/github/followers/BenyaminMoadab?label=Follow&style=social)](https://github.com/BenyaminMoadab)
 
 Hi, I’m @Benyamin Moadab
 - 💻 I’m currently working on my master's thesis & MRL (Mechatronics Research Laboratory),QIAU 
@@ -10,3 +10,16 @@ Hi, I’m @Benyamin Moadab
 - 💬 Ask me anything about machine vision, or machine learning/deep learning (I am a Pytorch guy)
 - 📫 How to reach me: Email: Benyamin_moadab@qiau.ac.ir
 
+<h2> Connect with me </h2>
+<a href = 'https://www.linkedin.com/in/benyamin-moadab-01a27314a/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://github.com/BenyaminMoadab'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
+
+
+<br>
+<br>
+
+[![Benyamin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BenyaminMoadab&theme=tokyonight)](https://git.io/praveenscience)
+
+| ![Benyamin's github stats](https://github-readme-stats.vercel.app/api?username=BenyaminMoadab&show_icons=true&theme=tokyonight) | ![Naser GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snrazavi&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenyaminMoadab&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=BenyaminMoadab&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
