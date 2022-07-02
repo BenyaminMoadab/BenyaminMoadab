@@ -1,10 +1,10 @@
-### Hi there 👋
+
 
 
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=BenyaminMoadab)
 [![Github](https://img.shields.io/github/followers/BenyaminMoadab?label=Follow&style=social)](https://github.com/BenyaminMoadab)
 
-Hi, I’m @Benyamin Moadab
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi there, I'm Benyamin Moadab 👋
 - 💻 I’m currently working on my master's thesis & MRL (Mechatronics Research Laboratory),QIAU 
 - 📚 I’m currently studying the master in AI & robotics at QIAU/Qazvin/IRAN
 - 💬 Ask me anything about machine vision, or machine learning/deep learning (I am a Pytorch guy)
