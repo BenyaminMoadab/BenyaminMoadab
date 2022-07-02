@@ -2,8 +2,6 @@
 
 
 [/github/followers/:user?label=Follow](https://img.shields.io/github/followers/2)
-/github/pipenv/locked/python-version/:user/:repo
-/wordpress/theme/last-updated/:slug
 
 
 Hi, I’m @Benyamin Moadab
