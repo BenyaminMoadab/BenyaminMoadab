@@ -21,6 +21,6 @@
 
 [![Benyamin's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BenyaminMoadab&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Benyamin's github stats](https://github-readme-stats.vercel.app/api?username=BenyaminMoadab&show_icons=true&theme=tokyonight) | ![Naser GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=snrazavi&theme=tokyonight) |
+| ![Benyamin's github stats](https://github-readme-stats.vercel.app/api?username=BenyaminMoadab&show_icons=true&theme=tokyonight) | 
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BenyaminMoadab&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=BenyaminMoadab&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
